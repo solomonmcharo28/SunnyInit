@@ -4,7 +4,7 @@ Enrich an Excel sheet of players with:
 - Country of league_name (via Wikidata SPARQL)
 - League-country capital elevation, mean humidity, and mean temperature (Open-Meteo)
 - FUTBIN price on New Year's Day for EA FC 25 and EA FC 26 (via playerGraph JSON)
-Hint - Querying the futbin playergraph is hard due to a mismatch between the EA Sports FC Player ID and the FUTBin ID
+Hint - Querying the futbin playergraph is hard due to a mismatch between the EA Sports FC Player ID and the FUTBin ID - Solomon Mcharo, Constance Develle, Britanny Quan, Jiaqi Paige, Claudia Sinclair and Madeline Young
 
 Requires: pandas, requests, openpyxl
 pip install pandas requests openpyxl
